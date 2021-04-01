@@ -32,15 +32,3 @@ Tem como objetivo exemplificar o Framework JS para efetuar testes.
       alt="Francisco Viana" 
       height="200"
   </p>
-
-<p align="center">
- <a href="https://www.instagram.com/_fco.viana/" target="_blank"> 
-    <img src="./img/instagram.svg" alt="instagram" height="36"> 
- <a href="https://github.com/Francisco1030" target="_blank">
-    <img src="./img/github.png" alt="github" height="36">    
- </a>
- </a> 
- <a href="https://www.linkedin.com/in/francisco-v-a8858010a/" target="_blank">
-    <img src="./img/linkedin.svg" alt="linkedin" height="36">   
- </a>
-</p>
