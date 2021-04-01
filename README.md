@@ -25,10 +25,3 @@ Tem como objetivo exemplificar o Framework JS para efetuar testes.
 
 ---
 
-<h2 align="center"> <em>&lt;/&gt;</em> <a href="https://www.linkedin.com/in/francisco-v-a8858010a/" target="_blank">Francisco Viana</a></h2>
-  <p align="center"> 
-    <img 
-      src="./img/eu.jfif" 
-      alt="Francisco Viana" 
-      height="200"
-  </p>
