@@ -5,8 +5,8 @@ Tem como objetivo exemplificar o Framework JS para efetuar testes.
 
 #### Tecnologias
 <ul>
-  <li> <img src="./img/js.png" alt="js" height="22"> <strong>   JS </strong> </li>
-  <li> <img src="./img/jest.png" alt="jest" height="22"> <strong>   Jest </strong> </li>
+  <li> <img src="./img/js.png" alt="js" height="18"> JS </li>
+  <li> <img src="./img/jest.png" alt="jest" height="18"> Jest</li>
 </ul>
 
 ---
@@ -22,6 +22,3 @@ Tem como objetivo exemplificar o Framework JS para efetuar testes.
 ```shell
     yarn test
 ```
-
----
-
